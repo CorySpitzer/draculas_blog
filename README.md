@@ -1,4 +1,4 @@
-## Ember Bustle.com-alike ##
+## Treehouse Ember Dracula Blog ##
 
 This application is meant to fulfill the requirements of an assignment through Epicodus code school. For more information on Epicodus, see <http://www.epicodus.com/>.
 
