@@ -1,0 +1,18 @@
+
+<h1>About Dracula</h1>
+<p>Stuff goes here</p>
+<button class="btn btn-primary" {{action 'showRealName'}}>Click here to learn
+Dracula's real name!</button>
+
+
+{{#if isPictureShowing}}
+<button class="btn btn-info" {{action "hidePicture"}}>Hide the picture</button>
+<p>
+  Picture of Dracula
+</p>
+
+{{else}}
+
+<button class="btn btn-info" {{action 'showPicture'}}>Click here to see picture</button>
+
+{{/if}}
